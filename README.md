@@ -12,4 +12,8 @@ The entire Pro Git book, written by Scott Chacon and Ben Straub and published by
 
 The Youtube channel, Traversy Media, created a crash course on Git: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1561s
 
+There is a great Udemy course on GitHub here: https://www.udemy.com/git-going-fast/
+
 Techlahoma is a great resource for anyone who wants to break into tech.
+
+
