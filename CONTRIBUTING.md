@@ -13,5 +13,4 @@
   * Create a pull request to propose and collaborate on changes to a repository. 
   * Click the "New Pull Request" button.
 
-### You could start by adding some links to the Readme or by adding more information here!
-* This is the first time i am using github and it is amazing!!!
+### You could start by adding some links to the Readme or by adding more useful information here!
